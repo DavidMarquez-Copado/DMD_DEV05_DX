@@ -1,0 +1,9 @@
+{
+  "deploymentJobId" : "a0C1n00001UdEvVEAV",
+  "promoteBranch" : "promotion/P02431-DeployP02431DMDUAT1",
+  "targetBranch" : "env/uat",
+  "copadoJobId" : "b261c329-35dc-4e99-b0d2-ff3db4f71099",
+  "orgDestId" : "00D1t000000otLSEAY",
+  "testLevel" : "NoTestRun",
+  "checkOnly" : false
+}
