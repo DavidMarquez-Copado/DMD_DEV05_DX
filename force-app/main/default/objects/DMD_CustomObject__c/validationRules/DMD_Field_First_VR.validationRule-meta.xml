@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DMD_Field_First_VR</fullName>
+    <active>true</active>
+    <description>Testing Dx Format</description>
+    <errorConditionFormula>Field_First__c == &quot;Testing&quot;</errorConditionFormula>
+    <errorDisplayField>Field_First__c</errorDisplayField>
+    <errorMessage>Expected value is &quot;Testing&quot;</errorMessage>
+</ValidationRule>

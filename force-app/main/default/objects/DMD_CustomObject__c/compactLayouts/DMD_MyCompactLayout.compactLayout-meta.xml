@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DMD_MyCompactLayout</fullName>
+    <fields>Name</fields>
+    <fields>DMD_external__c</fields>
+    <fields>DMD_MyTimeAndDate__c</fields>
+    <label>DMD_MyCompactLayout</label>
+</CompactLayout>
