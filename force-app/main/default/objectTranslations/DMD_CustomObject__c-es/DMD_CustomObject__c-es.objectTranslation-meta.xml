@@ -13,4 +13,8 @@
         <label><!-- DMD_SharingReason --></label>
         <name>DMD_SharingReason</name>
     </sharingReasons>
+    <validationRules>
+        <errorMessage><!-- Expected value is &quot;Testing&quot; --></errorMessage>
+        <name>DMD_Field_First_VR</name>
+    </validationRules>
 </CustomObjectTranslation>
