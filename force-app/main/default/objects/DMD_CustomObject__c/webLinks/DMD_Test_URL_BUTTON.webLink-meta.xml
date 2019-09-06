@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DMD_Test_URL_BUTTON</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>600</height>
+    <linkType>url</linkType>
+    <masterLabel>DMD_Test_URL_BUTTON</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <url>/{!DMD_CustomObject__c.CreatedById}</url>
+</WebLink>
