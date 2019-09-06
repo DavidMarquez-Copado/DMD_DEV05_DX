@@ -154,12 +154,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
     <gender>Feminine</gender>
-    <label>DMD CustomObject</label>
+    <label>DMD Objeto de David</label>
     <nameField>
         <label>DMD_CustomObject Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DMD CustomObjects</pluralLabel>
+    <pluralLabel>DMD Objeto de Davids</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
